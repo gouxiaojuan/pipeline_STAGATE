@@ -15,6 +15,7 @@ This script runs based on python, and the required python packages are as follow
 * sklearn
 
 For the version requirements of the required packages, see [requirement.txt](https://github.com/gouxiaojuan/pipeline_STAGATE/blob/main/requirement.txt)<br>
+For specific software installation, please refer to the [official tutorial of STARGATE](https://stagate.readthedocs.io/en/latest/index.html)<br>
 ## Use the script
 To use this script you can calculate spatial domain of your own data, you need to provide 
 a spatial expression matrix with <strong> row names for gene names, columns for cell names </strong>
